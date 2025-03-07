@@ -2,7 +2,9 @@
 
 بما إننا دخلنا رمضان 🌙🍕، مطعم البيتزا بتاعنا قرر يعمل عرض خاص للناس اللي بتحب البيتزا 🔥
 
-----
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## المطلوب:
 
@@ -16,17 +18,18 @@
 
 #### الإخراج المتوقع:
 
-```
-The pizza is Margherita and its price is 50 EGP
+
+> The pizza is Margherita and its price is 50 EGP
 After discount: 44 EGP
-
-The pizza is Pepperoni and its price is 70 EGP
+> 
+> The pizza is Pepperoni and its price is 70 EGP
 After discount: 61.6 EGP
-
-The pizza is Chicken BBQ and its price is 80 EGP
+> 
+> The pizza is Chicken BBQ and its price is 80 EGP
 After discount: 70.4 EGP
-```
+
 
 ---
 
 يلا يا مبرمجين، خلونا نشوف عروضكم الرمضانية 🎯🔥
+
